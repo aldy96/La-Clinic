@@ -1,3 +1,3 @@
 List to do :
 - cari nama pengganti la clinic
-- optimali sistem
+- bikin backend
