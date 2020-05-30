@@ -1,3 +1,4 @@
 List to do :
 - cari nama pengganti la clinic
 - bikin backend
+- fundamental data
